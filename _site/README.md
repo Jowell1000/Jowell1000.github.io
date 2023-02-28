@@ -1,3 +1,0 @@
-# Facts about A.I
-
-AI (Artificial Intelligence) refers to the development of computer systems that can perform tasks that would typically require human intelligence, such as perception, reasoning, learning, problem-solving, and decision making. AI includes a range of subfields such as machine learning, natural language processing, computer vision, robotics, and expert systems. AI has been used in various applications, such as virtual assistants, self-driving cars, fraud detection, medical diagnosis, and financial forecasting. However, the development of AI has also raised concerns about its impact on employment, privacy, and security, as well as the ethical implications of creating machines that can simulate human intelligence.
