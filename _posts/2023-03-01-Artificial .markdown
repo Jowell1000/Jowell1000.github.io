@@ -9,7 +9,7 @@ categories: jekyll update
 
 **Artificial intelligence** (AI) is a rapidly evolving technology that has the potential to transform numerous industries and fields. AI refers to the development of computer systems that can perform tasks that typically require human intelligence, such as problem-solving, pattern recognition, and decision making. With advancements in machine learning, deep learning, and natural language processing, AI is becoming increasingly sophisticated and capable of handling more complex tasks. The benefits of AI are widespread, from increasing productivity and efficiency to improving healthcare and customer service. In this age of digital transformation, AI is poised to play a significant role in shaping our future, and it is essential to understand its potential and implications.
 
-![AI, Artificial Intelligence](designer-using-transparent-digital-tablet-screen-futuristic-technology.jpg "AI Image")
+![AI, Artificial Intelligence](designer-using-transparent-digital-tablet-screen-futuristic-technology.png "AI Image")
 
 Artificial intelligence (AI) has numerous benefits across various industries and fields. Here are some of the most notable benefits of AI:
 

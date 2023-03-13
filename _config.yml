@@ -21,13 +21,11 @@
 title: Jowell's blog
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  These blogs cover a wide range of topics, including programming languages, software development, cybersecurity, cloud computing, data science, artificial intelligence, and more. You will often be provided with technical insights, tutorials, news, and commentary on the latest trends in the industry. This is a valuable resource for professionals in the field, as well as for students and enthusiasts who want to learn more about technology.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://github.com/Jowell1000" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: Jowell
+github_username:  Jowell
 
 # Build settings
 theme: minima
