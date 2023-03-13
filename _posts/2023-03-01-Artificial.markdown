@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Artificial Intelligence"
-date:   2023-03-07 20:09:19 +0300
+title:  "Programmers Challenges"
+date:   2023-03-13 13:42:19 +0300
 categories: jekyll update
 ---
 
