@@ -8,8 +8,7 @@ categories: jekyll update
 # Programmers Challenges 
 
 In today's world, the IT field is rapidly expanding, and the role of programmers has become increasingly important. Programmers are responsible for designing and creating computer software, applications, and systems that are used by millions of people every day. However, with great power comes great responsibility, and programmers face numerous challenges in their daily work. In this blog, we'll discuss some of the major challenges that programmers face in the IT field today.
-
-![AI, Artificial Intelligence](pexels-christina-morillo-1181244.png "AI Image")
+![Alt text](pexels-christina-morillo-1181244.png)
 
 **Security:**
 In recent years, data breaches and cyber attacks have become increasingly common. Hackers are constantly looking for vulnerabilities in software, and programmers need to be able to identify and address these vulnerabilities before they can be exploited. This requires a deep understanding of security best practices and the ability to write code that is secure by design. It's a challenging task that requires constant vigilance and attention to detail.
